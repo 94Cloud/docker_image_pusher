@@ -1,2 +1,1 @@
-qdrant/qdrant
-chromadb/chroma
+vllm/vllm-openai
