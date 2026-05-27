@@ -1,1 +1,1 @@
-docker.io/vanjayak/open-design:latest
+docker.io/library/node:24-alpine
