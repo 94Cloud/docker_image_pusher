@@ -1,5 +1,1 @@
-wechatopenai/weknora-ui:latest
-wechatopenai/weknora-app:latest
-wechatopenai/weknora-docreader:latest
-paradedb/paradedb:v0.22.2-pg17
-redis:7.0-alpine
+minio:RELEASE.2023-06-09T07:32:12Z
